@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5840bc&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Ronielyson+Barros;Prazer+em+conhecê-lo!+:%29)](https://git.io/typing-svg)
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="290px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="280px" max-width="280px" width="280px" align="right" alt="Computador iuriCode">
 
 > "Todo mundo deveria aprender a programar, porque isso ensina a pensar." – Steve Jobs 🎓
 
@@ -26,8 +26,8 @@ Estou constantemente aprendendo e aprimorando minhas habilidades para garantir q
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=r-onielyson&locale=pt-BR&theme=aura&show_icons=true&custom_title=Estatísticas"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-onielyson&locale=pt-BR&theme=aura&layout=compact&langs_count=6&size_weight=0.4&count_weight=0.6&exclude_repo=PousadaKatedral&hide=html,css,blade,tex"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=r-onielyson&locale=pt-BR&theme=aura&show_icons=true&custom_title=Estatísticas"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-onielyson&locale=pt-BR&theme=aura&layout=compact&langs_count=6&size_weight=0.4&count_weight=0.6&exclude_repo=PousadaKatedral&hide=html,css,blade,tex"/>
   &nbsp;
 </div>
 
