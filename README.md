@@ -26,10 +26,10 @@ Estou constantemente aprendendo e aprimorando minhas habilidades para garantir q
 
 <div align="center">
   
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=r-onielyson&locale=pt-BR&theme=aura&show_icons=true&custom_title=Estatísticas"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-onielyson&locale=pt-BR&theme=aura&layout=compact&langs_count=6&size_weight=0.4&count_weight=0.6&exclude_repo=PousadaKatedral&hide=html,css,blade,tex"/>
-  &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=r-onielyson&show_icons=true&theme=aura&include_all_commits=true&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-onielyson&theme=aura&custom_title=Linguagens+mais+usadas&langs_count=9"/>
 </div>
+
 
 ## 🐍 Snake Game
 <div align="center">
