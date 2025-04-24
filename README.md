@@ -1,5 +1,5 @@
 # 👻 Ronielyson Barros
-**Seja bem-vindo ao meu perfil!**
+
 > "Todo mundo deveria aprender a programar, porque isso ensina a pensar." – Steve Jobs 🎓
 
 Desenvolvedor back-end com foco em C++ e C#. <br/>
