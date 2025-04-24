@@ -2,7 +2,7 @@
 **Seja bem-vindo ao meu perfil!**
 > "Todo mundo deveria aprender a programar, porque isso ensina a pensar." – Steve Jobs 🎓
 
-Desenvolvedor back-end com foco em C++ e C#, sempre em busca de criar soluções rápidas e eficientes.
+Desenvolvedor back-end com foco em C++ e C#. <br/>
 Estou constantemente aprendendo e aprimorando minhas habilidades para garantir que cada projeto seja uma oportunidade de evolução.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronielyson-barros/)
