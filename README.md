@@ -2,9 +2,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5840bc&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Ronielyson+Barros;Prazer+em+conhecê-lo!+:%29)](https://git.io/typing-svg)
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="280px" max-width="280px" width="280px" align="right" alt="Computador iuriCode">
+<p align="right">
+  <img 
+    src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" 
+    width="250">
+</p>
 
 > "Todo mundo deveria aprender a programar, porque isso ensina a pensar." – Steve Jobs 🎓
+
 
 Desenvolvedor back-end com foco em C++ e C#. <br/>
 Estou constantemente aprendendo e aprimorando minhas habilidades para garantir que cada projeto seja uma oportunidade de evolução.
